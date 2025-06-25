@@ -47,7 +47,7 @@ function App() {
       </Container>
       <Footer>
         <Container>
-          <p>&copy; 2020 Wild Code School</p>
+          <p>&copy; 2020 Wild Code School88</p>
         </Container>
       </Footer>
     </div>
